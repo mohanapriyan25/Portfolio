@@ -1,0 +1,31 @@
+header{
+    height: 180px;
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+}
+.profile{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+}
+.about{
+    height: 150px;
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+body{
+    background-color: lightgray;
+}
+.me{
+    border: 5px dashed rgb(35, 240,240);
+    color: rgb(35, 240,240);
+    margin-top: 8px;
+}
+.my{
+    border: 5px dashed rgb(35, 240,240);
+    color: rgb(35, 240,240);
+    margin-top: 8px;
+}
